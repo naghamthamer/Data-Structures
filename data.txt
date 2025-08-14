@@ -1,0 +1,7 @@
+Nagham,Alotaibi,560,3000,0504225529,Amman,2003
+Haneen,Thamer,533,200,0789773552,Amman,2005
+Balsam,Emad,432,143,0786611275,irbid,1999
+Ahmad,Ali,123,834,0791954530,irbid,1887
+jameel,jamal,566,300,0788080939,zarqa,1997
+Hala,Lutfi,834,600,0503492997,zarqa,1987
+Mohammad,adnan,187,90,9678754320,Amman,1992
